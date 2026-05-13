@@ -9,7 +9,6 @@
 
 body {
   @apply bg-[#0a0a0a] text-neutral-300;
-  margin: 0;
-  height: 100vh;
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
